@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mandir24.Mandir24&color=7aa2f7" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mandir24.Mandir24&color=7aa2f7" alt="visiteurs badge"/>
 </div>
 
 <h1 align="center">
