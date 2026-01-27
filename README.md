@@ -20,7 +20,7 @@
   <a href="mailto:diopmandir53@gmail.com">
     <img src="https://img.shields.io/badge/Email-69B3A2?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a>
-  <a href="https://mandir24.github.io/Portfolio_Mandir/" target="_blank">
+  <a href="https://www.mandir-diop.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Site_Web-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" /> 
   </a>
 </div>
