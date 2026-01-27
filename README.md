@@ -9,9 +9,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=200&section=header&text=Data%20Scientist&fontSize=40&animation=fadeIn&fontAlignY=35&theme=tokyonight" width="100%" />
-  <br />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZqZzR4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR4YpGgiyuSa/giphy.gif" width="300" />
+  <img src="https://raw.githubusercontent.com/MauAnu/MauAnu/master/assets/coder.gif" width="350" alt="Coding Illustration" />
 </div>
 
 <p align="center">
