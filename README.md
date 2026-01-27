@@ -1,15 +1,17 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mandir24.Mandir24&color=69b3a2" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mandir24.Mandir24&color=7aa2f7" alt="visitor badge"/>
 </div>
 
 <h1 align="center">
     <a href="https://git.io/typing-svg"> 
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=69B3A2&center=true&vCenter=true&width=600&lines=Bonjour+%F0%9F%91%8B+Je+suis+Mandir+DIOP" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Bonjour+%F0%9F%91%8B+Je+suis+Mandir+DIOP" alt="Typing SVG" />
     </a>
 </h1>
 
 <div align="center">
-  <img src="https://browserdefault.sirv.com/dev-coding.gif" width="350" alt="Coding Illustration" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=200&section=header&text=Data%20Scientist&fontSize=40&animation=fadeIn&fontAlignY=35&theme=tokyonight" width="100%" />
+  <br />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZqZzR4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR4YpGgiyuSa/giphy.gif" width="300" />
 </div>
 
 <p align="center">
@@ -22,10 +24,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a>
   <a href="mailto:diopmandir53@gmail.com">
-    <img src="https://img.shields.io/badge/Email-69B3A2?style=for-the-badge&logo=gmail&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Email-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a>
   <a href="https://www.mandir-diop.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Site_Web-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" /> 
+    <img src="https://img.shields.io/badge/Portfolio-Site_Web-bb9af7?style=for-the-badge&logo=googlechrome&logoColor=black" /> 
   </a>
 </div>
 
@@ -36,7 +38,7 @@
 ### ⚒️ Stack Technique
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,php,html,css,js,github,vscode,docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,php,html,css,js,github,vscode,docker&theme=dark" />
 </div>
 
 <br />
@@ -56,5 +58,5 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
