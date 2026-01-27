@@ -1,49 +1,56 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MandirDiop.MandirDiop" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mandir24.Mandir24&color=69b3a2" alt="visitor badge"/>
+</div>
 
 <h1 align="center">
     <a href="https://git.io/typing-svg"> 
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A8DADC&random=false&width=435&separator=%3C&lines=Bonjour+!+%F0%9F%91%8B;++Je+suis+Mandir+Diop" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=69B3A2&center=true&vCenter=true&width=500&lines=Bonjour+%F0%9F%91%8B;Je+suis+Mandir+DIOP;Data+Analyst;Visualisation+D%C3%A9cisionnelle" alt="Typing SVG" />
     </a>
 </h1>
 
-<h2 align="center">Passionné par la Data Science et le Développement</h2>  
+<p align="center">
+  <b>Étudiant en BUT Sciences des Données (VCOD) @ IUT Grand Ouest Normandie</b><br>
+  <i>"Chaque donnée mérite la visualisation parfaite."</i>
+</p>
 
-<br/> 
-<div align = "center">
-  🌱 Je me perfectionne actuellement en Machine Learning et en analyse de données.
-</div>
-
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/Mandir-diop/" target="_blank">
+<div align="center">
+  <a href="https://www.linkedin.com/in/mandir-diop-92bab6276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a>
+  <a href="mailto:diopmandir53@gmail.com">
+    <img src="https://img.shields.io/badge/Email-69B3A2?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  </a>
+  <a href="https://mandir24.github.io/Portfolio_Mandir/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Site_Web-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" /> 
   </a>
 </div>
 
-<h2 align="center">⚒️ Compétences ⚒️</h2>
-<h3>👨‍💻 Langages et Outils</h3>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,postgresql,react,html,css,github,git,vscode" />
-</div>
-<br/>
+<br />
 
-<h3>🔥 Statistiques GitHub</h3>
-<div align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=MandirDiop&theme=nord" alt="GitHub Streak" />
-    </a>
-</div>
+---
+
+### ⚒️ Stack Technique
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MandirDiop&show_icons=true&theme=nord" alt="Mandir's GitHub stats" />
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,php,html,css,js,github,vscode,docker&theme=light" />
 </div>
 
-<br/>
+<br />
+
+### 🚀 Projets Phares
+* **[World-Univ-Rank](https://github.com/Mandir24/Analyse_conception_outils_dc)** : Application Flask d'analyse des classements mondiaux des universités.
+* **[BourseTrack](https://github.com/Mandir24/BourseTrack)** : Automatisation de l'analyse boursière via APIs.
+* **[Analyse Mortalité](https://github.com/Mandir24/Analyse-Deces-R)** : Étude statistique de 2.6M de décès avec le langage R.
+
+<br />
+
+### 🌱 En cours de développement
+- 🤖 **Machine Learning** : Modélisation k-NN et XGBoost pour le Credit Scoring.
+- 🗺️ **Géomatique** : Analyse spatiale avec QGIS et flux WFS.
+- 📦 **Docker** : Conteneurisation d'applications data.
+
+---
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandirDiop&layout=donut&theme=nord" alt="Top Langs" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Quote" />
 </div>
-
-<br/>
-<p align="center">
-  <b>Note:</b> Ces statistiques reflètent mes projets publics sur GitHub.
-</p>
