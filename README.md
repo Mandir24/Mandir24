@@ -9,8 +9,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mandir24&repo=World-Univ-Rank&theme=nord" align="right" width="300" style="display:none;" />
-  <img src="https://cdn.pixabay.com/animation/2022/12/05/10/47/10-47-58-930_512.gif" width="250" alt="Coding GIF" />
+  <img src="https://browserdefault.sirv.com/dev-coding.gif" width="350" alt="Coding Illustration" />
 </div>
 
 <p align="center">
