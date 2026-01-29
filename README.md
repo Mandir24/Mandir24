@@ -44,7 +44,7 @@
 ### 🚀 Projets Phares
 * **[World-Univ-Rank](https://github.com/Mandir24/Analyse_conception_outils_dc)** : Application Flask d'analyse des classements mondiaux des universités.
 * **[BourseTrack](https://github.com/Mandir24/BourseTrack)** : Automatisation de l'analyse boursière via APIs.
-* **[Analyse Mortalité](https://github.com/Mandir24/Analyse-Deces-R)** : Étude statistique de 2.6M de décès avec le langage R.
+* **[Analyse Mortalité en France](https://github.com/Mandir24/Analyse-Deces-R)** : Étude statistique de 2.6M de décès avec le langage R.
 
 <br />
 
