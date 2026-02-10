@@ -90,7 +90,7 @@ Ce projet est conçu pour être intégré dans un environnement existant (le plu
 ## 📧 Contact et Encadrement
 
 | Rôle | Nom et Prénom | Organisation | 
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | **Stagiaire** | Mandir DIOP | BUT Sciences des Données - LISIEUX | 
 | **Maître de Stage (Technique)** | M. Cédric Gouineau | CATER COM | 
 | **Maître de Stage (Administratif)** | Mme Anne Gouronnec | AESN | 
