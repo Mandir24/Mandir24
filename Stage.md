@@ -8,7 +8,6 @@
 </div>
 
 ---
-=======
 # 🌉 Passerelle SALIX $\leftrightarrow$ DREAL : Transfert automatisé des données de haies financées
 
 ## 💡 Aperçu du Projet (Stage BUT Sciences des Données, 2e Année)
