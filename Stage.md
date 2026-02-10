@@ -8,56 +8,12 @@
 </div>
 
 ---
-
-## 🎯 Objectif du Projet
-
-Ce stage a pour objectif de développer une **passerelle** permettant le transfert automatisé des données de **haies financées** par l'AESN (Agence de l'Eau Seine-Normandie) vers le référentiel cartographique de la DREAL Normandie.
-L'objectif est de faciliter la saisie des données par les technicien.ne.s Bocage et d'assurer un historique fiable et accessible des haies subventionnées pour la prise de décision (financement, arrachage, restauration, etc.).
-
-## 🛠️ Missions Techniques
-
-L'objectif du stage est de créer cette passerelle. Les tâches à réaliser comprennent :
-
-* Structurer les données SALIX dans une forme compatible avec le format DREAL.
-* Identifier les données récentes.
-* Permettre les compléments éventuels avant export.
-* Transférer les nouvelles données dans le fichier DREAL. Ce transfert prend actuellement la forme d’un géopackage[cite: 9].
-* Tracer les exports.
-* Intégrer cette passerelle dans le plugin Qgis SALIX.
-* Si possible, automatiser et tracer l’envoi annuel.
-
-## 📅 Contexte du Stage
-
-| Détail | Information | 
-| :--- | :--- |
-| **Intitulé** | Développement d’un outil de transfert de données cartographiques | 
-| **Durée** | 4 à 6 mois  | 
-| **Début** | Mars-Avril  |
-| **Lieu Principal** | CATER COM Ségrie-Fontaine (61) :  5 mois  | 
-| **Lieu Secondaire** | Agence de l'Eau, Hérouville St-Clair : 1 à 2 mois (pour restitution)  |
-| **Encadrement** | Responsable géomatique de la CATER COM, développeur de la base SALIX  |
-
-## 💻 Livrables Attendus
-
-À la fin du stage, les productions attendues sont :
-
-* Script(s) SQL fonctionnel.
-* Scripts Python fonctionnel et intégrés au plugin.
-* Support de présentation de la passerelle (pptx/odp).
-* Support utilisateur (docx/odt/pdf).
-
-## 📧 Contacts Maîtres de Stage
-
-Les renseignements complémentaires peuvent être demandés aux maîtres de stage:
-
-* **Mme Anne Gouronnec** (E-mail : gouronnec.anne@aesn.fr) 
-* **M. Cédric Gouineau** (E-mail : cedric.gouineau@cater-com.fr) 
 =======
 # 🌉 Passerelle SALIX $\leftrightarrow$ DREAL : Transfert automatisé des données de haies financées
 
 ## 💡 Aperçu du Projet (Stage BUT Sciences des Données, 2e Année)
 
-Ce projet a été réalisé dans le cadre d'un stage de fin d'études en **BUT Sciences des Données**. Son objectif principal est de développer une **passerelle logicielle** robuste pour automatiser le transfert des données cartographiques de haies financées de la base **SALIX** vers le référentiel de la **DREAL Normandie**.
+Ce projet a été réalisé dans le cadre d'un stage de deuxiéme année d'études en **BUT Sciences des Données**. Son objectif principal est de développer une **passerelle logicielle** robuste pour automatiser le transfert des données cartographiques de haies financées de la base **SALIX** vers le référentiel de la **DREAL Normandie**.
 
 L'outil vise à garantir la fiabilité et l'accessibilité de l'historique des haies subventionnées, facilitant ainsi la prise de décision par les organismes gestionnaires (AESN, DREAL).
 
