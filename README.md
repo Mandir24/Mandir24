@@ -48,7 +48,12 @@
 ### ⚒️ Stack Technique
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,powerbi,ts,php,html,css,js,github,vscode,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,ts,php,html,css,js,github,vscode,docker&theme=dark" />
+    <br />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/Qlik_Sense-009848?style=for-the-badge&logo=qlik&logoColor=white" />
+    <img src="https://img.shields.io/badge/SAS-0066B3?style=for-the-badge&logo=sas&logoColor=white" />
+    <img src="https://img.shields.io/badge/VBA-867DB1?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </div>
 
 <br />
