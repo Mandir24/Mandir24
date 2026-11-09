@@ -13,12 +13,17 @@
 </div>
 
 <p align="center">
-  <b>Étudiant en BUT Sciences des Données (VCOD) @ IUT Grand Ouest Normandie</b><br>
+  <b>Élève-ingénieur en Science de la Donnée @ <a href="https://ensar.univ-poitiers.fr/ingenieure-data-analyst/" target="_blank">ENSAR</a> – Université de Poitiers (Niort), promo 2026-2029</b><br>
+  <b>BUT Sciences des Données (VCOD) – IUT Grand Ouest Normandie, diplômé 2026</b><br>
   <i>"Chaque donnée mérite la visualisation parfaite."</i>
 </p>
 
+<p align="center">
+  🎯 <b>À la recherche d'une alternance de 2 ans dès Septembre 2027</b> – Data Engineering / Data Science
+</p>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/mandir-diop-92bab6276/" target="_blank">
+  <a href="https://www.linkedin.com/in/mandir-diop/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a>
   <a href="mailto:diopmandir53@gmail.com">
@@ -33,25 +38,35 @@
 
 ---
 
+### 💼 Expériences
+
+* **Stage Ingénieur de Données R&D – Nestlé Development Centre (NDC)** *(mars – juin 2026)* : plateforme centralisée de données ingrédients (SharePoint Lists), pipelines ETL, modélisation en étoile, dashboards Power BI (DAX), automatisation avec Power Automate et Office Scripts.
+* **Stage – Agence de l'eau Seine-Normandie** *(avr. – août 2025)* : développement de SALIX, outil automatisé de transfert et validation de données géospatiales (Python, PostgreSQL, QGIS, web scraping, WFS).
+
+---
+
 ### ⚒️ Stack Technique
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,php,html,css,js,github,vscode,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,powerbi,ts,php,html,css,js,github,vscode,docker&theme=dark" />
 </div>
 
 <br />
 
 ### 🚀 Projets Phares
+> ✅ **Tous ces projets sont terminés.**
+
 * **[World-Univ-Rank](https://github.com/Mandir24/Analyse_conception_outils_dc)** : Application Flask d'analyse des classements mondiaux des universités.
 * **[BourseTrack](https://github.com/Mandir24/BourseTrack)** : Automatisation de l'analyse boursière via APIs.
 * **[Analyse Mortalité en France](https://github.com/Mandir24/Analyse-Deces-R)** : Étude statistique de 2.6M de décès avec le langage R.
 
 <br />
 
-### 🌱 En cours de développement
+### 🎓 Domaines explorés
 - 🤖 **Machine Learning** : Modélisation k-NN et XGBoost pour le Credit Scoring.
 - 🗺️ **Géomatique** : Analyse spatiale avec QGIS et flux WFS.
 - 📦 **Docker** : Conteneurisation d'applications data.
+- 🔄 **Data Engineering** : ETL, modélisation dimensionnelle, automatisation de workflows.
 
 ---
 
